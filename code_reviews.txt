@@ -1,0 +1,20 @@
+1.
+One concept that is similar is to not criticize the submitter,
+but point out flaws in the code and be communicative. Another point
+that is similar is to respect the codebase and review for correctness.
+The yelp one has a difference that it is more logical oriented while
+the microsoft one goes more into ethics while reviewing code. The microsoft
+one also gives more suggestions while the yelp one states clear guidelines
+to follow when reviewing code.
+
+2.
+https://codereview.stackexchange.com/questions/127180/finding-all-non-empty-directories-and-their-files-on-an-sftp-server-with-paramik
+I found this review beneficial because the user had a clear problem and then solutions
+were presented that offered different angles to tackle the problem and also explained
+why the user was having the problem. It was clear and concise.
+
+3.
+https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+I found this review to be not as useful because it is very confusing to understand
+what the person reviewing was saying. The advice was not that helpful overall
+and I think it could be improved if they offered a more clear solution.
